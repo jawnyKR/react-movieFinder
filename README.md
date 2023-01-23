@@ -1,3 +1,19 @@
+# How to Git
+
+## git init
+
+## git remote remove origin
+if there's already existed
+
+## git remote add origin <git_url>
+
+## git add .
+
+## git command -m "<file_name_to_be>"
+
+## git push origin master
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
